@@ -1,0 +1,13 @@
+@import '~normalize.css';
+@import './styles/variables';
+
+* {
+  box-sizing: border-box;
+}
+
+.home {
+  position: relative;
+  width: 100px;
+  height: 100px;
+  color: red;
+}
